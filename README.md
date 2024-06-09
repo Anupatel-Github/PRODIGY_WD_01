@@ -3,7 +3,7 @@ site provides an excellent user erperience on smartphone and talets. It is fully
 
 Technologies Used HTML CSS JavaScript
 
-How to Run Clone the repository: git clone. Open index.html in your web browser.
+How to Run Clone the repository: https://github.com/Anupatel-Github/PRODIGY_WD_01. Open index.html in your web browser.
 
 Contributing Pull requests are welcome. For major changes, please open an issue first to discuss what you would like to change.
 
